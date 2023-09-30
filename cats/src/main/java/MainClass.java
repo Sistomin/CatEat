@@ -1,3 +1,4 @@
+// Истомин Сергей Андреевич группа 4832
 public class MainClass {
     public static void main(String[] args) {
         Cat[] cat = new Cat[3];
